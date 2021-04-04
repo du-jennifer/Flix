@@ -21,10 +21,12 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-![](https://i.imgur.com/95RpKJe.gif)
+![](https://i.imgur.com/UH5ZG0R.gif)
+
 
 
 ### Notes
 Describe any challenges encountered while building the app.
 
 I had trouble running the app from Xcode on my iPhone. I went to CodePath's discussion and Apple forums to find the root of this problem. After adding a development team and changing my Bundle Identifier, it kept saying “iPhone is not available. Please reconnect the device.” no matter how many times I tried reconnecting my phone and running the app. I tried updating my preferences in Xcode to Xcode 12.2 in the Command Lines Tools but it still didn't work. Eventually, I looked at Xcode's Window > Devices and Stimulators and saw that the error listed was that I needed to update Xcode to a newer version in order to support my iPhone's iOS 14.4.2.
+
