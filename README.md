@@ -40,6 +40,7 @@ Describe any challenges encountered while building the app.
 
 ### App Walkthrough GIF
 GIF to show different device sizes and orientations:
+
 ![](https://i.imgur.com/D54EDs5.gif)
 
 
